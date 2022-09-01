@@ -1,13 +1,11 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello, I am Risang
 content: >
   # I am here for your personal business
 
   Enjoy team diversity and increase their networks among others people
   in various fields by
 buttonName: Contact me
-buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+buttonURL: https://wa.me/6285727679755
+image: images/hero/profile.jpg
